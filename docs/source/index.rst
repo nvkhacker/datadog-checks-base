@@ -7,4 +7,5 @@ https://nvk0x.github.io
    :maxdepth: 2
    :caption: Contents:
 
-   draft/OIP-3
+   datadog_checks_dev.cli.rst
+   datadog_checks_dev.cli
